@@ -1,0 +1,21 @@
+<h4>The Present Continuous Tense vs. The Aorist Tense</h4>
+
+Turkish actually has two present tenses, the present continuous tense, and the aorist tense.  <p>
+
+The present continuous tense (<b>-iyor</b> suffix) is used to express action that is currently in progress.  It is equivalent to the English present progressive tense.
+
+<p>
+<b>Eve gidiyorum.</b> - I am going home.
+<br>
+<b>Ne yapiyorsun?</b> - What are you doing?
+<p>
+
+The aorist tense (<b>-r</b> suffix) is used to express habitual, daily actions and routines.  It is equivalent to the English simple present tense.
+
+<p>
+<b>Her gun, dili okulusu giderim.</b> - I go to language school every day.
+<br>
+<b>Her sabah, erken kalerim.</b> - I wake up early every morning.
+
+<p>
+These are the official uses of these tenses.  However, in practice, the two tenses are largely interchangeable, and determining which tense to use in a given situation is slightly idiomatic.  In general, the present continuous tense (<b>-iyor</b> suffix) is more commonly used and can typically always be used to express habitual actions.

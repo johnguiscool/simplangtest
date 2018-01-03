@@ -1,0 +1,3 @@
+﻿To ask [What do you think about ___?], you can use the following form:
+<p>
+<b>що ти думаєш про ___?<b>

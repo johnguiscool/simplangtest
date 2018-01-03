@@ -1,0 +1,34 @@
+<h4>Imperatives</h4>
+
+To form commands in Turkish, simply use the stem of the verb.
+
+<p>
+
+When giving commands to someone whom you would address using the formal "you" <b>siz</b>, add the suffix <b>-iniz, -ınız</b>.
+
+<p>For commands in the first person plural ("Let's..."), add the suffix <b>-elim, -alım</b>.
+
+<p>
+<b>gitmek</b> - to go
+<p>
+
+<table>
+<tr>
+<td>informal</td>
+<td><b>Git.</b></td>
+<td>Go.</td>
+<tr>
+
+<tr>
+<td>formal</td>
+<td><b>Gidiniz</b></td>
+<td>Go. (formal)</td>
+<tr>
+
+<tr>
+<td>let's</td>
+<td><b>Gidelim.</b></td>
+<td>Let's go.</td>
+<tr>
+
+</table>

@@ -1,0 +1,9 @@
+﻿<b>Buongiorno</b> is the standard greeting used among Italians during the day.
+
+<p><b>Come ti chiami?</b> is used to express the question: [What's your name?].  The word <b>come</b> means [how] and the word <b>ti</b> means [yourself].  The phrase translates more literally to something like [How do you call yourself?].</p>
+
+<p><b>Mi chiamo ...</b> is used to express [My name is...], but the literal meaning is closer to [I call myself ...].</p>
+
+<p>In Italian, the words <b>io</b> and <b>tu</b> are the pronouns for [I] and [you] respectively, but in practice, these pronouns are often omitted.</p>
+
+<p><b>Piacere</b> means [pleasure] literally.  So the expression <b>Piacere</b> is short for [It's a pleasure to meet you].

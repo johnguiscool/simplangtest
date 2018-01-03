@@ -1,0 +1,66 @@
+/*=====================================
+   Content layout stuff
+=======================================*/
+
+
+
+/*=====================================
+   Layout stuff specific to about.php
+=======================================*/
+
+h1 {
+
+	display: block;
+
+}
+
+.person img{
+
+	border-radius: 50%;
+
+}
+
+.person {
+
+	margin: 1em;
+	text-align: center;
+
+}
+
+
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+ 
+
+ 
+  
+ @media (min-width: 830px){
+	
+	.container{
+
+		width: 80%;
+		text-align: center;
+
+		
+	}
+	
+	.pictures-row{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+		
+	}
+
+@media (min-width: 1025px){
+
+	/*========================================
+		Content columns
+	==========================================*/
+   
+
+}

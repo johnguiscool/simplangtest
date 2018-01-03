@@ -1,0 +1,58 @@
+<h4>Practical Introduction to the Future Tense </h4>
+
+Turkish verbs end with the suffix <b>-mek</b> (<b>-mak</b>).  To conjugate the verb in the future tense, drop this suffix and replace it with the <b>-acak (-ecek)</b> suffix according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yapacağım </b></td>
+    <td>I will do</td>
+    <td><b>(biz) yapacağız</b></td>
+    <td>we do</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapacaksın </b> </td>
+<td>you will do</td>
+<td><b>(siz) yapacaksınız</b></td>
+<td>you do (formal/plural)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapacak </b> </td>
+<td>he does</td>
+<td><b>(onlar) yapacaklar</b></td>
+<td>they do</td>
+</tr>
+
+</table>
+
+<p>
+<b>sevmek</b> - to love
+<p>
+
+<table>
+<tr>
+<td><b>(ben) seveceğim </b></td>
+    <td>I will love</td>
+    <td><b>(biz) seveceğiz</b></td>
+    <td>we will love</td>
+</tr>
+
+<tr>
+<td><b>(sen) seveceksin </b> </td>
+<td>you will love</td>
+<td><b>(siz) seveceksiniz</b></td>
+<td>you will love (formal/plural)</td>
+</tr>
+
+<tr>
+<td><b>(o) sevecek </b> </td>
+<td>he will love</td>
+<td><b>(onlar) sevecekler</b></td>
+<td>they will love</td>
+</tr>
+
+</table>

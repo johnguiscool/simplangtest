@@ -1,0 +1,9 @@
+What's your name?
+My name is John.
+Where are you from?
+I'm from the United States.
+What is your profession?
+I'm a student.
+What is your profession, ma'am?
+Me?  I don't have a profession.
+I'm retired.

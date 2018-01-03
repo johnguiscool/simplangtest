@@ -1,0 +1,24 @@
+<h4>Adjectives</h4>
+
+In Turkish the adjective comes before the noun, just as in English.
+
+<p>
+<b>güzel kız</b> - pretty girl
+<br>
+<b>sıcak su</b> - hot water
+<br>
+<b>kara kedi</b> - black cat
+
+<hr>
+
+<p>
+
+When saying something like "He is a hardworking student," or "This is a very sweet cake", Turkish people use the form "___ bir ___".
+
+<p>
+
+<b>Bu çok tatlı bir kek.</b> - This is a very sweet cake.
+<br>
+<b>O çalışkan bir öğrenci</b> - He is a hardworking student.
+<br>
+<b>O güzel bir kız</b> - She is a pretty girl.

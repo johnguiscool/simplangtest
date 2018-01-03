@@ -1,0 +1,34 @@
+<h4></h4>
+
+Because the verb "to be" does not exist in Turkish, to express a sentence like "I will be a teacher", Turkish speakers use the verb <b>olmak</b>, meaning "to become".  In Turkish, there is no grammatical distinction between "I will be ___" and "I will become ___".
+
+<p>
+<b>Ben öğretmen olacağım.</b> - I will be a teacher. / I will become a teacher.
+
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) öğretmen olacağım</b></td>
+    <td>I will be a teacher</td>
+    <td><b>(biz) öğretmenler olacağız</b></td>
+    <td>we will become teachers</td>
+</tr>
+
+<tr>
+<td><b>(sen) öğretmen olacaksın</b> </td>
+<td>you will become a teacher</td>
+<td><b>(siz) öğretmenler olacaksınız</b></td>
+<td>you will become teachers (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) öğretmen olacak</b> </td>
+<td>he will become a teacher (formal)</td>
+<td><b>(onlar) öğretmenler olacaklar</b></td>
+<td>they will become teachers</td>
+</tr>
+
+</table>

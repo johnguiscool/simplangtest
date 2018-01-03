@@ -1,0 +1,120 @@
+<h4>Present Continuous Tense Conjugation Table<h4>
+
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+  <td>  </td>
+  <td>Positive (+)</td>
+  <td>Negative (-)</td>
+  <td>Question (?)</td>
+</tr>
+
+<tr>
+<td>Ben</td>
+<td>yapıyorum</td>
+<td>yapmıyorum</td>
+<td>yapıyor muyum?</td>
+</tr>
+
+<tr>
+<td>Sen</td>
+<td>yapıyorsun</td>
+<td>yapmıyorsun</td>
+<td>yapıyor musun?</td>
+</tr>
+
+
+<tr>
+<td>O</td>
+<td>yapıyor</td>
+<td>yapmıyor</td>
+<td>yapıyor mu?</td>
+</tr>
+
+
+<tr>
+<td>Biz</td>
+<td>yapıyoruz</td>
+<td>yapmıyoruz</td>
+<td>yapıyor muyuz?</td>
+</tr>
+
+
+<tr>
+<td>Siz</td>
+<td>yapıyorsunuz</td>
+<td>yapmıyorsunuz</td>
+<td>yapıyor musunuz?</td>
+</tr>
+
+
+<tr>
+<td>Onlar</td>
+<td>yapıyorlar</td>
+<td>yapmıyorlar</td>
+<td>yapıyorlar mı?</td>
+</tr>
+
+</table>
+
+<p>
+<h4>Present Simple Tense Conjugation Table<h4>
+
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+  <td>  </td>
+  <td>Positive (+)</td>
+  <td>Negative (-)</td>
+  <td>Question (?)</td>
+</tr>
+
+<tr>
+<td>Ben</td>
+<td>yaparım</td>
+<td>yapmam</td>
+<td>yapar mıyım?</td>
+</tr>
+
+<tr>
+<td>Sen</td>
+<td>yaparsın</td>
+<td>yapmazsın</td>
+<td>yapar mısın?</td>
+</tr>
+
+<tr>
+<td>O</td>
+<td>yapar</td>
+<td>yapmaz</td>
+<td>yapar mı?</td>
+</tr>
+
+<tr>
+<td>Biz</td>
+<td>yaparız</td>
+<td>yapmayız</td>
+<td>yapar mıyız?</td>
+</tr>
+
+<tr>
+<td>Siz</td>
+<td>yaparsınız</td>
+<td>yapmazsınız</td>
+<td>yapar mısınız?</td>
+</tr>
+
+<tr>
+<td>Onlar</td>
+<td>yaparlar</td>
+<td>yapmazlar</td>
+<td>yaparlar mı?</td>
+</tr>
+
+</table>

@@ -1,0 +1,36 @@
+﻿In Turkish, verbs are conjugated differently based on whether the sentence is a question or a statement.
+
+The suffix <b>-iyor musun?</b> is added to a verb to indicate that the sentence is a yes/no question.
+
+<ul>
+<li><b>Okumayı seviyorsun.</b><br>You like to read.</li>
+<li><b>Okumayı seviyor musun?</b><br>Do you like to read?</li>
+</ul>
+
+<ul>
+<li><b>Çalışıyorsun.</b><br>You work.</li>
+<li><b>Çalışıyor musun?</b><br>Do you work?</li>
+</ul>
+
+<ul>
+<li><b>İşe gidiyorsun.</b><br>You are going to work.</li>
+<li><b>İşe gidiyor musun?</b><br>Are you going to work?</li>
+</ul>
+
+When used as a noun, Turkish verbs typically adopt the <b>-mayı</b> suffix:
+
+<ul>
+<li><b>Okuyorum.</b><br>I read.</li>
+<li><b>Okumayı seviyorum.</b><br>I like to read.</li>
+</ul>
+
+
+<ul>
+<li><b>Çalışıyorum.</b><br>I am working.</li>
+<li><b>Çalışmayı seviyorum.</b><br>I like to work.</li>
+</ul>
+
+<ul>
+<li><b>Yapıyorum.</b><br>I do.</li>
+<li><b>Ne yapmayı seviyorsun?</b><br>What do you like to do?<br>(Note:  We use <b>seviyorsun</b> instead of <b>seviyor musun</b> because this is not a yes/no question.)</li>
+</ul>

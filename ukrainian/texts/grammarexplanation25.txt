@@ -1,0 +1,7 @@
+﻿The question word <b>Який</b> and <b>Яка</b> can mean [Which?] in addition to [How?].  <p>
+
+<b>Який твій улюблений фільм?</b> translates word-for-word to [Which your favorite movie?], in the sense of [What is your favorite movie?]
+
+<br>
+
+<b>Яка твоя улюблена книжка?</b> translates word-for-word to [Which your favorite book?], in the sense of [What is your favorite book?]

@@ -1,0 +1,8 @@
+﻿Adınız ne?
+Adım John.
+Nerelisiniz?
+Amerika'dan geliyorum.
+Ne iş yapıyorsunuz?
+Öğrenciyim
+Ne okuyorsunuz?
+Tarih okuyorum.

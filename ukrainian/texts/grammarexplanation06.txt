@@ -1,0 +1,14 @@
+﻿
+In Ukrainian, there are two variants for the word [in]. These are <b>у</b> and <b>в</b>.
+
+<p>
+
+Which one is used depends on the first letter of the word following [in].
+
+<p>
+
+So, for example we say:
+
+<p>
+
+<b>у Львові</b> [in Lviv] and <b>в центрі</b> [in the center].

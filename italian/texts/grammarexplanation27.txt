@@ -1,0 +1,23 @@
+﻿You have already seen how to say [My name is ...] and [Your name is ...] in Italian.  In this dialogue we now see how to form the phrase [His name is ...]
+
+<ul>
+<li><b>Mi chiamo John.</b> My name is John.  (I call myself John.) </li>
+<li><b>Come ti chiami?</b> What's your name?  (How do you call yourself?) </li>
+<li><b>Si chiama Marcello.</b> His name is Marcello.  (He calls himself Marcello.) </li>
+<li><b>Si chiama Sofia.</b> Her name is Sofia.  (She calls herself Sofia.) </li>
+</ul>
+
+The word <b>era</b> means [was] in the imperfect tense.  The Italian language makes a distinction between two kinds of past tenses, the perfect tense, and the imperfect tense.  
+
+<p> The perfect tense is used to describe single, completed actions in the past like [I ate dinner] or [I went home], and is formed with <b>ho</b> or <b>sono</b> in the first person.  
+
+<ul>
+<li><b>Ieri ho cenato con John.</b>  Yesterday, I ate dinner with John.</li>
+<li><b>Sono andato a Carignano.</b>  I went to Carignano.</li>
+</ul>
+
+The imperfect tense is used to describe states and "background information" or actions that take place over time.  
+
+<ul>
+<li><b>Quando lui era studente...</b>  When he was a student... </li>
+</ul>

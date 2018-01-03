@@ -1,0 +1,14 @@
+﻿In this dialogue, you can see how future tense is formed for the second person:
+
+<ul>
+<li><b>Andrai.</b><br> You will go.  </li>
+<li><b>Partirai.</b><br> You will leave. </li>
+</ul>
+
+<p>
+The future tense for the first person for these two verbs is as follows:
+
+<li><b>Andrò.</b><br> You will go.  </li>
+<li><b>Partirò.</b><br> You will leave. </li>
+
+</p>

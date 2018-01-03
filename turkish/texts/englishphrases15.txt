@@ -1,0 +1,11 @@
+﻿Do you want to visit this village?
+I want to, but I can't
+Why?
+I don't have a car.
+I need a car to go there.
+Hakan has a car.
+You can borrow Hakans car.
+You're right.
+Good idea.
+Do you want to go to this village with me?
+Yes!

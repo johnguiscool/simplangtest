@@ -1,0 +1,3 @@
+﻿<b>Ci sono ... </b> means [There are ...].  This phrase can also be used to express the question [Are there ... ?].
+
+<p><b>C'é ... </b> means [There is ...].</p>

@@ -1,0 +1,7 @@
+﻿To express negation in Ukrainian, simply add a <b>не</b> between the subject and the verb. 
+
+<p>
+
+<b>я не можу</b>
+<br>
+<b>Я не маю машини</b>

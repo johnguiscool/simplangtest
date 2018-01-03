@@ -1,0 +1,430 @@
+/*=====================================
+   Content layout stuff
+=======================================*/
+
+/*tr { cursor: pointer; }*/
+button {cursor: hand; }
+
+
+table
+{
+    border: 1px solid lightgrey;
+	border-radius: 10px;
+}
+
+th, td
+{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover{background-color:#f5f5f5}
+.container{
+
+	display: flex;
+	flex-direction: column;
+
+ 	text-align: center;
+
+	list-style-type: none;
+
+	background: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+
+	font-size: large;
+	margin: 0px;
+	padding: 0px 0px 0px 0px;
+
+	padding-top: 0px;
+
+	width: 90%;
+
+	vertical-align: top;
+
+}
+
+
+
+/*=====================================
+   Layout stuff specific to lessons.php
+=======================================*/
+
+
+
+.lessons-links-nav{
+order: 2;
+}
+
+.lesson-content{
+order: 1;
+}
+
+
+.empty-column{
+order: 3;
+}
+
+.lessons-links-nav-container{
+margin: auto;
+text-align: left;
+padding-left: 10px;
+}
+
+.lessons-links-nav a{
+display: block;
+margin: 5px;
+text-decoration: none;
+
+border-bottom: 1px solid;
+border-color: lightgrey;
+}
+
+.navigation-buttons{
+	margin-bottom: 8px;
+}
+
+.lessons-links-nav a:last-child{
+
+
+border-bottom: 0px;
+border-color: lightgrey;
+}
+
+.lesson-links-topic{
+font-size: 16px;
+text-align: left;
+}
+
+.lesson-links-header{
+text-align: center;
+
+}
+
+.hidden{
+visibility: hidden;
+}
+
+img{
+	max-width: 100%;
+	border-radius: 15px;
+}
+
+.content-item{
+	display: inline-block;
+	width: 100%;
+}
+
+/*=========================
+    Button behaviors
+==========================*/
+
+button{
+    margin-top: 8px;
+}
+
+button {
+    background-color: #008CBA;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 2px #999;
+    outline: none;
+
+    width:  250px;
+}
+
+button:hover {
+    background-color: #119DCB;
+
+}
+
+button:active {
+    background-color: #119DCB;
+    transform: translateY(2px);
+    box-shadow: 0 0px #999;
+    outline: none;
+
+}
+
+.next-lesson-button {
+    margin: 8px;
+	margin-top: 16px;
+}
+
+.previous-lesson-button {
+    margin: 8px;
+	margin-top: 16px;
+}
+
+
+.audio-button {
+	background-color: white;
+	padding: 0px;
+	width: auto;
+	margin: 5px;
+	border-radius: 50%;
+	box-shadow: 0 0px #999;
+
+}
+
+.audio-button-container{
+	position: relative;
+}
+
+.audio-button-text{
+	position: absolute;
+	text-align: center;
+	margin-top: 10px;
+	font-size: 12px;
+
+}
+
+.audio-button:hover {
+	background-color: white;
+
+}
+
+.audio-button:active {
+    background-color: white;
+    transform: translateY(1px);
+    box-shadow: 0 0px #999;
+    outline: none;
+
+}
+
+.audio-button-image{
+	height:  36px;
+	width: 36px;
+	border-radius: 100%;
+}
+
+.play {
+  border-top: 10px solid white;
+  border-bottom: 10px solid white;
+  border-left: 20px solid black;
+  height: 0px;
+}
+
+/*=====================
+	Specifies behavior of the Image, the sound file, and the dialogue table
+======================*/
+
+.lesson-content{
+	display: flex;
+	flex-direction: column;
+}
+
+.lesson-dialogue-table{
+	margin: auto;
+	width: 100%;
+	max-width: 640px;
+
+}
+
+.audio-play-row{
+background-color:#f5f5f5;
+}
+
+
+
+
+.grammar-explanation-container{
+	background-color: #f5f5f5;
+	max-width: 640px;
+	text-align: center;
+	margin: auto;
+	border-radius: 10px;
+	padding: 16px;
+}
+
+.grammar-explanation-content{
+	text-align: left;
+	width: 100%;
+	margin: auto;
+
+	position: relative;
+
+}
+
+.lessons-links-nav-container {
+	background-color: #f5f5f5;
+	border-radius: 10px;
+	padding-top:  16px;
+	padding-bottom:  16px;
+	max-width: 640px;
+}
+
+.literal-definition-sentence{
+    color: red;
+    font-size: 70%;
+    position: absolute;
+    margin-top: -3px;
+}
+
+.advertisement{
+
+
+
+	text-align: left;
+	border-radius: 10px;
+
+	padding: 16px;
+
+	border: 1px dashed;
+	border-color: lightgrey;
+
+	font-size:  14px;
+
+	max-width: 640px;
+}
+
+.advertisement:first-of-type{
+	margin-top: 16px;
+}
+
+.center-text{
+	text-align: center;
+}
+
+/*for youtube thing */
+.youtube{
+  margin-top: 16px;
+  font-size: 14px;
+}
+
+.youtube iframe{
+  margin-bottom: 6px;
+}
+
+
+/* =================================
+  Media Queries
+==================================== */
+
+
+ @media (min-width: 400px) {
+	/*Audio button text changes from two lines of text to one line of text, so it needs to be spaced differently*/
+	.audio-button-text{
+	position: absolute;
+	text-align: center;
+	margin-top: 16px;
+	font-size: 12px;
+
+	}
+ }
+
+ @media (min-width: 830px){
+
+	.container{
+	display: flex;
+	flex-direction: row;
+		width: 100%;
+	}
+
+
+
+	/*======================================
+		Content - Columns Layout
+	========================================*/
+
+	.column{
+	margin-right: -5px;
+	vertical-align: top;
+	}
+
+	.lessons-links-nav{
+	order: 1;
+	display: block;
+	width:25%;
+	padding-left: 16px;
+	padding-right: 16px;
+
+	}
+
+	.lesson-content{
+	order: 2;
+	display: block;
+	width:50%;
+	}
+
+
+	.empty-column{
+	order: 3;
+	width: 25%;
+
+	padding-left: 16px;
+	padding-right: 16px;
+
+	}
+
+
+	.lessons-links-nav a{
+	display: block;
+	margin: 5px;
+	}
+
+	.advertisement:first-of-type{
+	margin-top: 0px;
+	}
+
+
+}
+
+
+@media (min-width: 1025px){
+
+	/*========================================
+		Content columns
+	==========================================*/
+
+	.lessons-links-nav{
+		width: 25%;
+		padding-left: 60px;
+		padding-right: 60px;
+		order: 1;
+	}
+
+
+	.lesson-content{
+		width: 50%;
+		order: 2;
+
+	}
+
+
+	.empty-column{
+		width: 25%;
+		min-height: 1px;
+		order: 3;
+		padding-left: 60px;
+		padding-right: 60px;
+
+	}
+
+	.grammar-explanation-container{
+		max-width: 640px;
+		margin: auto;
+	}
+
+	.grammar-explanation-content{
+		text-align: left;
+		width: 100%;
+		margin: auto;
+		    position: relative;
+		    margin-left: auto;
+    		margin-right: auto;
+    		display:inline-block;
+
+
+	}
+}
+}

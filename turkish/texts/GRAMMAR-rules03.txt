@@ -1,0 +1,60 @@
+<h4>Forming The Present Continuous Tense 1/2</h4>
+
+Turkish verbs end with the suffix <b>-mek</b> (<b>-mak</b>).  To conjugate the verb in the present tense, drop this suffix and replace it with the suffix <b>-iyor</b> according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yapiyorum </b></td>
+    <td>I do</td>
+    <td><b>(biz) yapiyoruz</b></td>
+    <td>we do</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapiyorsun </b> </td>
+<td>you do</td>
+<td><b>(siz) yapiyorsunuz</b></td>
+<td>you do (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapiyor </b> </td>
+<td>he does</td>
+<td><b>(onlar) yapiyorlar</b></td>
+<td>they do</td>
+</tr>
+
+</table>
+
+<p>
+
+To form the negative, add the negation suffix <b>-mi</b> directly before the <b>-iyor</b> suffix.
+<p>
+<table>
+<tr>
+<td><b>(ben) yapmiyorum </b></td>
+    <td>I do not</td>
+    <td><b>(biz) yapmiyoruz</b></td>
+    <td>we do not</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapmiyorsun </b> </td>
+<td>you do not</td>
+<td><b>(siz) yapmiyorsunuz</b></td>
+<td>you do not (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapmiyor </b> </td>
+<td>he does not</td>
+<td><b>(onlar) yapmiyorlar</b></td>
+<td>they do not</td>
+</tr>
+
+</table>
+
+<p>

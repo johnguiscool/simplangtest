@@ -1,0 +1,13 @@
+﻿Ukrainian differs from English in how the future tense is formed.  There is no exact equivalent to the English word [will] to express the future.  To express that an action will be performed in the future, special verbs called "perfective verbs" are used to express that an action will be performed in the future.  
+
+<p>
+
+<b>я піду до університету.</b> means [I will go to university].  In this sentence, the perfective verb <b>піду</b> means [will go].
+
+<p>
+
+In contrast to <i>perfective verbs</i> there are also <i>imperfective verbs</i> that express that an action is performed regularly.  Consider the following sentence,
+
+<p> <b>Ти ходиш до університету кожен день?</b>
+
+<p> In this sentence, the imperfective verb <b>ходиш</b> means [go] in the sense of [go regularly] or [go multiple times].

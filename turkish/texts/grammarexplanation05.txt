@@ -1,0 +1,17 @@
+﻿The suffix <b>-mak</b> can also used to create the noun form of a verb.  In practice there are two ways to form the noun form of a verb:
+
+<ul>
+<li><b>buluşmak</b><br>to meet up</li>
+<li><b>buluşmayı</b><br>to meet up</li>
+</ul>
+
+<ul>
+<li><b>Çalışmak istiyorum.</b><br>I want to work.</li>
+<li><b>Çalışmayı seviyorum.</b><br>I like to work.</li>
+</ul>
+
+The <b>-mak</b> suffix is used to form the infinitive when it is the subject of a sentence, and when used with the verb <b>istiyorum / istiyorsun</b> (I like to / you like to).
+
+<p>
+
+The <b>-mayı</b> suffix is used to form the infinitive when it is the object of a verb (other than <b>istiyorum / istiyorsun</b>).

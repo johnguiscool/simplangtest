@@ -1,0 +1,14 @@
+﻿What's your name?
+My name is Sofia. And you?
+My name is John.
+Do you want to have lunch with me?
+Yes!  Let's go!
+Why are you learning Italian?
+Because I want to study in Italy.
+Which specialization? (Which major?)
+History.
+Where are you from?
+I'm from Mexico.
+I'm Mexican.
+But I want to live in Italy.
+I like Italian culture.

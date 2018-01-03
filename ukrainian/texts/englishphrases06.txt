@@ -1,0 +1,5 @@
+﻿Do you live in Lviv?
+Yes, I live in Lviv.
+Where do you live in Lviv?
+I live in the center.  And you?
+I live far from the center.

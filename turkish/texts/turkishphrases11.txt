@@ -1,0 +1,10 @@
+﻿Kardeşin var mı?
+Evet, bir ağabeyim ve bir kızkardeşim var.
+Ağabeyim doktor.
+Kızkardeşim öğrenci.
+Sen? Kardeşin var mı?
+Kızkardeşim yok.
+Ama iki kardeşim var.
+Biri benden büyük, diğeri küçük.
+Ağabeyim programcı.
+Erkek kardeşim öğrenci.

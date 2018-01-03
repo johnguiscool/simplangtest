@@ -1,0 +1,8 @@
+﻿Da dove vieni?
+Io sono americano.  
+E tu?  Da dove vieni?
+Io sono italiana.
+Sei uno studente?
+Sì, sono uno studente.
+E tu? Anche tu sei una studentessa?
+No, io lavoro.

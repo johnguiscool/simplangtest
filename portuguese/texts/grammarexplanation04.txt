@@ -1,0 +1,11 @@
+﻿<b>Gostas de ... ?</b> means [Do you like ... ?], and can be used to ask someone if they like to perform some action.
+
+<p><b>Sim</b> is the Portuguese word for [Yes].</p>
+
+<p><b>Não</b> is the Portuguese word for [No].</p>
+
+<p>The word <b>não</b> can also be used to express negation:</p>
+
+<ul>
+<li><b>Não gosto de ver televisão..</b><br> I don't like watching TV.</li>
+</ul>

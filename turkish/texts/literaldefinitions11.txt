@@ -1,0 +1,10 @@
+﻿your-brother there-is question-mark 
+yes one my-older-brother and one my-sister there-is 
+my-older-brother doctor 
+my-sister student 
+you your-brother there-is question-mark 
+my-sister there-is-not 
+but two my-brother there-is 
+one from-me big other small 
+my-older-brother programmer 
+male my-brother student 

@@ -1,0 +1,11 @@
+﻿Hello, students!
+Hello, professor!
+John, do you have a question?
+Yes, I have a question.
+Tell me.
+How do you say [car] in italian?
+Macchina.
+How do you say [to have lunch] in italian?
+Pranzare
+Thank you.
+You're welcome.

@@ -1,0 +1,30 @@
+<h4>Practical Introduction to the Past Tense </h4>
+
+Turkish verbs end with the suffix <b>-mek</b> (<b>-mak</b>).  To conjugate the verb in the past tense, drop this suffix and replace it with the <b>-ti / -di</b> suffix according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yaptım </b></td>
+    <td>I did</td>
+    <td><b>(biz) yaptık</b></td>
+    <td>we did</td>
+</tr>
+
+<tr>
+<td><b>(sen) yaptın </b> </td>
+<td>you did</td>
+<td><b>(siz) yaptınız</b></td>
+<td>you did (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yaptı </b> </td>
+<td>he did</td>
+<td><b>(onlar) yaptılar</b></td>
+<td>they did</td>
+</tr>
+
+</table>

@@ -1,0 +1,17 @@
+﻿<b>Voglio ...</b> means [I want ... ].  As in English, it can be used to express wanting a thing </i>or</i> wanting to do something.
+
+<p>Wanting a thing:</p>
+
+<ul>
+<li><b>Voglio una macchina.</b><br>I want a car.</li>
+<li><b>Voglio studiare un libro.</b><br>I want a book.</li>
+<li><b>Voglio una TV.</b><br>I want a TV.</li>
+</ul>
+
+<p>Wanting to do something:</p>
+
+<ul>
+<li><b>Voglio studiare in Italia.</b><br>I want to study in Italy.</li>
+<li><b>Voglio viviere in Italia.</b><br>I want to live in Italy.</li>
+<li><b>Voglio pranzare con ti.</b><br>I want to have lunch with you.</li>
+</ul>

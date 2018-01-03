@@ -1,0 +1,8 @@
+﻿Where are you from? 
+I'm American.
+And you?  Where are you from?
+I'm Italian.
+Are you a student?
+Yes, I am a student.
+And you?  Are you also a student (female)?
+No, I work.

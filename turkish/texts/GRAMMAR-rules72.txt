@@ -1,0 +1,22 @@
+
+<b>Çünkü</b> is the Turkish word for "because".
+
+<p>
+
+<b>Şemsiyeni almalısın çünkü yağmur yağıyor.</b> - You should take your umbrella because it is raining.
+<br>
+<b>Bugün erken uyuyacağım çünkü başım ağırıyor.</b> - I will sleep early today because I have a headache.
+<br>
+<b>Sıkıldım çünkü film çok uzundu.</b> - I was bored because the film was too long.
+<br>
+<b>Sarah sinemaya gelemedi çünkü hastaydı.</b> - Sarah couldn't come to the cinema because she was ill.
+
+<hr>
+<p>
+
+<b>Çünkü</b> can not be used as an introductory dependent clause at the beginning of a sentence.  Instead, clauses starting with <b>çünkü</b> should always come after the main clause of a sentence.
+<p>
+<font color ="red"> ✗ <b>Çünkü yağmur yağıyor. Şemsiyeni almalısın.</b> </font>- Because it is raining, you should take your umbrella.
+
+<br>
+<font color="green">✔  <b>Şemsiyeni almalısın. Çünkü yağmur yağıyor.</b> </font>- You should take your umbrella. Because it is raining.

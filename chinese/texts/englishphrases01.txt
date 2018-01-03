@@ -1,0 +1,8 @@
+Hello!
+Hello!
+What's your name?
+My name is John.
+Hello John.
+My name is Xiaomei.
+Nice to meet you.
+Nice to meet you.

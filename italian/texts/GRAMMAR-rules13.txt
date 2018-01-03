@@ -1,0 +1,30 @@
+<h4>The Simple Past Tense 2/2</h4>
+
+To form yes/no questions in the present continuous tense, add the <b>-ti / -di</b> suffix followed by the question particle according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yaptım mı?</b></td>
+    <td>Did I do?</td>
+    <td><b>(biz) yaptık mı?</b></td>
+    <td>Did we do?</td>
+</tr>
+
+<tr>
+<td><b>(sen) yaptın mı?</b> </td>
+<td>Did you do?</td>
+<td><b>(siz) yaptınız mı?</b></td>
+<td>Did you do? (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yaptı mı?</b> </td>
+<td>Did he do?</td>
+<td><b>(onlar) yaptılar mı?</b></td>
+<td>Did they do?</td>
+</tr>
+
+</table>

@@ -1,0 +1,28 @@
+<h4>Verbs of Motion</h4>
+
+<b>Gitmek</b> is the verb meaning "to go".  It is conjugated as follows in the present tense:
+
+<p>
+<table>
+<tr>
+<td><b>(ben) gidiyorum </b></td>
+    <td>I go</td>
+    <td><b>(biz) gidiyoruz</b></td>
+    <td>we go</td>
+</tr>
+
+<tr>
+<td><b>(sen) gidiyorsun </b> </td>
+<td>you go</td>
+<td><b>(siz) gidiyorsunuz</b></td>
+<td>you go (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) gidiyor </b> </td>
+<td>he goes</td>
+<td><b>(onlar) gidiyorlar</b></td>
+<td>they go</td>
+</tr>
+
+</table>

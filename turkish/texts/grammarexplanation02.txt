@@ -1,0 +1,28 @@
+﻿<b>﻿Ben</b> is the Turkish word for [I].
+
+<p>
+<b>Sen</b> is the Turkish word for [You].
+
+<p>In general, to express sentences of the form [I am ___], Turkish speakers add the -im/-ım/-üm suffix to the word and say <b>Ben ___-im/-ım/-üm</b>.
+
+<ul>
+<li><b>Ben Amerikalıyım.</b><br>I am American.</li>
+<li><b>Ben Türküm.</b><br>I am Turkish.</li>
+<li><b>Ben öğrenciyim.</b><br>I am a student.</li>
+</ul>
+
+In each of these cases, the <b>Ben</b> can be dropped, because the suffix along is sufficient to identify that the word refers to the speaker.
+
+<ul>
+<li><b>Amerikalıyım.</b><br>I am American.</li>
+<li><b>Türküm.</b><br>I am Turkish.</li>
+<li><b>Öğrenciyim.</b><br>I am a student.</li>
+</ul>
+
+<p>In general, to ask questions of the form [Are you ___?], Turkish speakers add the word mısın/müsün after the word and say <b>Sen ___ mısın/müsün?</b>
+
+<ul>
+<li><b>Sen Amerikan mısın?</b><br>Are you American?</li>
+<li><b>Sen Türk müsün?</b><br>Are you Turkish?</li>
+<li><b>Sen öğrenci misin?</b><br>Are you a student?</li>
+</ul>

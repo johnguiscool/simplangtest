@@ -1,0 +1,17 @@
+<b>Bom dia</b> is the greeting used in the morning.
+﻿<p><b>﻿Boa tarde</b> is the greeting used in the afternoon.
+
+<p><b>Estou...</b> is a verb meaning [I am ...], and it can be used to express one's current state <i>or</i> to express that one is currently doing some action.</p>
+
+<p>Using <b>Estou...</b> to express one's current state:</p>
+
+<ul>
+<li><b>Estou bem.</b><br>I'm well.</li>
+</ul>
+
+<p>Using <b>Estou...</b> to express that one is currently doing some action:</p>
+
+<ul>
+<li><b>Estou a ler um livro.</b><br>I'm reading a book.</li>
+<li><b>Estou a ir para o trabalho.</b><br>I'm going to work.</li>
+</ul>

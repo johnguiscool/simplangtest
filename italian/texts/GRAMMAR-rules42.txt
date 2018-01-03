@@ -1,0 +1,29 @@
+<h4>The verb "to have": "I have, You have, He has, etc." </h4>
+
+In Turkish, there is no verb "to have".  Instead, Turks use the word <b>var</b>, which means "exists".  To say that "I have a car," you literally say "my car exists".
+
+<p>
+<hr>
+<p>
+<b> In the Present Tense</b>
+
+<p>
+<b>Arabam var.</b> - I have a car. (literally, "my car exists")
+<br>
+<b>Kardeşin var.</b> - You have a brother. (literally, "your brother exists")
+
+<hr>
+<p>
+<b>Past Tense</b>
+
+<p>
+<b>Arabam vardı.</b> - I had a car.
+<br>
+<b>Kardeşin vardı. </b> - You had a brother.
+<hr>
+
+<p>
+<b>Future Tense</b>
+
+<p>
+<b>Ben ac olacam</b>. - I will be hungry.

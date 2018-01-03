@@ -1,0 +1,12 @@
+﻿<b>Ti piace ... ?</b> means [Do you like ... ?], and can be used to ask someone if they like to perform some action.  In the context of the phrase, the word <b>ti</b> means [to you] and the word <b>piace</b> means [is pleasing].  For example, the phrase <b>Ti piace leggere?</b> literally means [Is reading pleasing to you?].
+
+<p><b>Sì</b> is the Italian word for [Yes].</p>
+
+<p><b>No</b> is the Italian word for [No].</p>
+
+<p><b>Non</b> is the Italian word for [Not], and is used to negate a sentence:</p>
+
+<ul>
+<li><b>Non sono uno studente.</b><br> I'm not a student.</li>
+<li><b>Non mi piace guardare la TV.</b><br> I don't like watching TV.</li>
+</ul>

@@ -1,0 +1,8 @@
+﻿where-are-you-from 
+I I'm-American 
+you where-are-you-from 
+I I'm-Turkish 
+student question-mark 
+yes I'm-a-student 
+you you student question-mark 
+no I-work 

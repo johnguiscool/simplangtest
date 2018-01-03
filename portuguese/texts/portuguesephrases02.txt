@@ -1,0 +1,8 @@
+De onde és?
+Sou americano.
+E tu? De onde és?
+Sou portuguesa.
+Estás a estudar?
+Sim, estou.
+E tu? Também estás a estudar?
+Não, eu trabalho.

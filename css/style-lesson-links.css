@@ -1,0 +1,63 @@
+/* grammar table hider */
+
+.lesson-links-grammar-wrapper{
+  display: none;
+  transition: max-height 0.2s ease-out;
+}
+
+.grammar-header{
+  cursor: pointer;
+  cursor: hand;
+  margin-top: 30px;
+  margin-bottom: -30px;
+
+}
+
+.plus-accordion-grammar:before{
+  font-size: x-large;
+  position: relative;
+  right: 55px;
+  top: -35px;
+  content: "+";
+}
+
+.minus-accordion-grammar:before{
+  font-size: x-large;
+  position: relative;
+  right: 55px;
+  top: -35px;
+  content: "-";
+}
+
+.grammar-header:hover{
+  color: gray;
+}
+
+/* lesson links hider*/
+
+.plus-accordion-links:before{
+  font-size: x-large;
+  position: relative;
+  right: 50px;
+  top: -25px;
+  content: "+";
+}
+
+.minus-accordion-links:before{
+  font-size: x-large;
+  position: relative;
+  right: 50px;
+  top: -25px;
+  content: "-";
+}
+
+.lessons-header-in-links{
+  cursor: pointer;
+  cursor: hand;
+  margin-bottom: -20px;
+
+}
+
+.lessons-header-in-links:hover{
+  color: gray;
+}

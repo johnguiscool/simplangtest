@@ -1,0 +1,36 @@
+﻿There are many different words in Turkish for brothers and sisters:
+
+<ul>
+<li><b>﻿kardeş</b><br>sibling (sometimes means brother)</li>
+<li><b>ağabey</b><br>older brother</li>
+<li><b>erkek kardeş</b><br>brother (usually younger)</li>
+<li><b>abla</b><br>older sister</li>
+<li><b>kız kardeş</b><br>sister (usually younger)</li>
+</ul>
+
+Possession is expressed very differently in Turkish compared to English.  Recall that the suffix <b>-im</b> means [my] and the suffix <b>-in</b> means [your].
+
+<p>
+
+To express the sentence [I have a sibling], Turkish people say <b>kardeşim var</b> meaning [There is a sibling of mine] or [My sibling exists].
+
+<ul>
+<li><b>Ağabeyim var.</b><br>I have an older brother.</li>
+<li><b>Kız kardeşim var.</b><br>I have a (younger) sister.</li>
+</ul>
+
+This can be extended with the numbers for [one] and [two] <b>bir</b> and <b>iki</b>, respectively.
+
+<ul>
+<li><b>Bir ağabeyim var.</b><br>I have an older brother.</li>
+<li><b>Bir kız kardeşim var.</b><br>I have a (younger) sister.</li>
+<li><b>İki kardeşim var.</b><br>I have two brothers. (Here, <b>kardeş</b> means [brother] rather than [sibling].)</li>
+</ul>
+
+
+To express that one does <i>not</i> have a brother or sister, use the word <b>yok</b>.
+
+<ul>
+<li><b>Kardeşim yok.</b><br>I don't have a sibling.</li>
+<li><b>Kızkardeşim yok.</b><br>I don't have a sister.</li>
+</ul>

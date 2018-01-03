@@ -1,0 +1,10 @@
+﻿<b>Ho ...</b> means [I have ...].  Here are some examples of how the verb can be used:
+
+<ul>
+<li><b>Ho una domanda.</b><br> I have a question.</li>
+<li><b>Ho una macchina.</b><br> I have a car.</li>
+</ul>
+
+<p><b>Si dice</b> is a slightly idiomatic expression that means [One says].  <b>Come si dice ... ?</b> thus translates to [How does one say ... ?]</p>
+
+<p><b>Dimmi</b> means [Tell me] in the imperative mood.</p>

@@ -1,0 +1,456 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+*{
+
+	box-sizing: border-box;
+}
+
+body {
+
+	margin: 0 auto;
+	
+	display: flex;
+	flex-direction: column;
+	
+	background-color: #f8f8f8;
+	
+
+}
+
+
+/* ================================= 
+  Base Layout Styles
+==================================== */
+
+
+.wrap {
+	text-align: center;
+	min-height: 100vh;
+	/*flex: 1;*/
+	display: flex;
+	flex-direction: column;
+
+}
+
+.banner-container{
+	flex: 1;
+}
+
+
+
+.container{
+ 
+ 
+ 	text-align: center;
+
+	list-style-type: none;
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+    
+
+	font-size: large;
+	margin: 0px;
+	padding: 0px 0px 0px 0px;
+
+}
+
+
+/* ================================= 
+  Text and banner specific stuff
+==================================== */
+
+.banner-text{
+
+	font-family: "Arial Black", Gadget, sans-serif;
+    color: white;
+    text-shadow: -2px 0 lightblue, 0 1px lightblue, 1px 0 lightblue, 0 -2px lightblue;
+    font-weight: bold;
+    font-size:40px;
+
+	horizontal-align: center;
+	
+	margin: 0px 0px;
+	
+	max-width: 250px;
+	
+	margin-top: 30px;
+	margin-bottom: 10px;
+
+}
+
+.banner-subtext{
+font-family: 'Arvo';
+color: purple;
+margin-top:10px;
+
+}
+
+
+.sub-banner-container{
+font-family: Arial, Helvetica, sans-serif;
+font-size: x-large;
+}
+
+
+.login-text{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.register-text{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.go-to-lessons-text{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/*==================================
+   Login and Register Buttons
+==================================== */
+
+.login-register-button{
+
+	color: white;
+    background-color: #228B22;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 2px #999;
+    outline: none;
+
+    width:  150px;
+
+	
+	
+		margin-left: auto;
+		margin-right: auto;
+	
+	}
+	
+.login-register-button:hover {
+	text-decoration: none;
+	color: white;
+    background-color: #329B32;	
+	}
+	
+.login-register-button:active {
+    background-color: #329B32;
+    transform: translateY(2px);
+    box-shadow: 0 0px #999;
+    outline: none;
+
+}
+
+.register-button{
+	background-color: #8B0000;
+}
+
+.register-button:hover{
+	background-color: #9C0010;
+}
+
+.register-button:active{
+	background-color: #9C0010;
+	
+}
+
+/* ================================= 
+   Navigation Bar
+==================================== */
+
+
+
+/* ==================================
+	Languages Selection Bar
+	================================= */
+
+.languages-selector-container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	margin-top: 30px;
+	background-color: #7194FF;
+
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;		
+}
+
+.languages-selector-item{
+	width:  70px;
+	
+	text-decoration: none;
+	margin: 16px;
+	
+}
+
+.languages-selector-item img{
+    height: auto; 
+    width: auto; 
+    max-width: 70px; 
+	max-height: 70px; 
+	border-radius: 50%;
+}
+
+.languages-label { 
+   margin-top: 8px;
+   width: 100%;    
+   color: white;
+   font-weight: bold;
+   font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+
+
+}
+
+/* =================================
+   Promo stuff
+   ================================= */
+   
+   .promo-container{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap; 
+	justify-content: center;
+	align-items: center;
+	
+	
+	background-color: #f8f8f8;
+	color: purple;
+	text-align: center;
+	padding: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.promo-item{
+	width: 90%;
+	padding: 1em;
+}
+
+.promo-item-1{
+	border-bottom: 1px solid lightgrey;
+}
+
+.promo-item-2{
+	border-bottom: 1px solid lightgrey;
+}
+
+.promo-item-3{
+	border-bottom: 1px solid lightgrey;
+}
+
+.title{
+	font-family: 'Arvo';
+	
+		font-weight:bold;
+		font-size: 2em;
+		display: block;
+		margin-bottom: 0.5em;
+}
+ 
+.paragraph{
+		display: block;
+}
+
+
+
+
+/* ================================= 
+   Footer
+==================================== */
+
+
+.main-footer {
+	
+	font-family: 'Arvo';
+	color: purple;
+	margin-top: 8px;
+	text-align:center;
+	margin-bottom:	16px;
+}
+
+
+
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+   @media (min-width: 320px){
+	   
+	   .banner-text{
+		   font-size: 60px;
+	   }
+
+	   
+   }
+
+  
+  
+ @media (min-width: 769px){
+	
+.wrap {
+
+	width: 100%;
+
+}
+	
+.banner-container{
+
+}
+	
+.banner-text{
+	margin-top: 150px;
+  max-width:  700px;
+	
+}
+
+.banner-subtext{
+
+	margin-left: 20%;
+	font-size: 18px;
+}
+
+/*==============================
+   Buttons Display
+   =============================*/
+
+.login-text{
+	display: inline-block;
+}
+
+.register-text{
+	display: inline-block;
+}
+
+.sub-banner-container{
+	text-align: center;
+}
+
+.login-register-button{
+
+
+    padding: 12px;
+
+    font-size: 20px;
+
+
+    width:  200px;
+	
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+
+/*======================================
+	Languages Display
+	====================================*/
+
+.languages-selector-container{
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+	border-top: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+	background-color: #7194FF;
+}
+
+.languages-selector-item img{
+    height: auto; 
+    width: auto; 
+    max-width: 70px;
+	max-height: 70px;
+	opacity: 1;
+	background-color: white;
+	
+	border-radius: 50%;
+	
+	
+}
+
+.languages-selector-item img:hover{
+	opacity: 1;
+}
+
+.languages-selector-item{
+	width: auto;
+	padding: 12px;
+	margin: 15px;
+}
+
+.languages-label { 
+	color: /*lightblue*/white;
+	font-size: 16px;
+}
+
+
+/*====================
+   Promo container stuff
+  ======================*/
+ 
+.promo-container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap; 
+	justify-content: center;
+	align-items: stretch;
+
+	
+	background-color: #f8f8f8;
+	color: purple;
+	text-align: center;
+	padding: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.promo-item{
+	width: 50%;
+	padding: 2em;
+}
+
+.promo-item-1{
+	border-right: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+
+.promo-item-2{
+	border-bottom: 1px solid lightgrey;
+}
+
+.promo-item-3{
+	border-right: 1px solid lightgrey;
+	border-bottom: 0px solid lightgrey;
+}
+
+.title{
+	font-family: 'Arvo';
+	
+		font-weight:bold;
+		font-size: 2em;
+		display: block;
+		margin-bottom: 0.5em;
+}
+ 
+.paragraph{
+		display: block;
+}
+}

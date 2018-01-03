@@ -1,0 +1,10 @@
+Where nationality are you?
+I'm American.
+And you?
+What nationality are you?
+I'm Chinese.
+Are you a student?
+Yes, I am a student.
+And you?
+Are you also a student?
+No, I (already) work.

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+h2
+{
+font-family: 'Arvo';
+color: purple;
+}
+
+.language-about-text {
+	text-align: left;
+	
+	max-width: 640px;
+	margin: auto;
+	border-radius: 10px;
+	padding: 16px;
+}
+
+.centered-text{
+	text-align: center;
+}
+
+.lesson-picture{
+	border-radius: 50%;
+}

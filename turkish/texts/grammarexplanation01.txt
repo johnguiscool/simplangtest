@@ -1,0 +1,14 @@
+﻿<b>﻿Günaydın!</b> means [Good morning].
+
+<p><b>Ad</b> is the word for [name] in Turkish.  In the Turkish language, possession is indicated by suffixes rather than by a possessive adjective.  To say [my], we add the suffix <b>-ım</b>.  To say [your], we add the suffix <b>-ın</b>.
+
+<ul>
+<li><b>adım</b><br>my name</li>
+<li><b>adın</b><br>your name</li>
+</ul>
+
+<b>Ne?</b> is the question word meaning [What?].  There is no word for [is] in the Turkish language, so to ask [What is your name?], it is sufficient to say <b>Adın ne?</b>
+
+<p>
+<b>Benim</b> is another word for [my], and is not technically needed in the sentence <b>Benim adım John</b>.  
+</p>

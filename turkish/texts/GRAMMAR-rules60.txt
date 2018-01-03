@@ -1,0 +1,36 @@
+<h4>Temporal Adverbs</h4>
+
+Temporal adverbs indicating when an action takes place typically occur at the beginning of a sentence in Turkish.
+
+<p>
+<b> Common Temporal Adverbs </b>
+<p>
+<table>
+<tr>
+<td><b>dün</td></b> <td>yesterday</td>
+</tr>
+
+<tr>
+<td><b>bugün</td></b> <td>today</td>
+</tr>
+
+<tr>
+<td><b>yarın</td></b> <td>tomorrow</td>
+</tr>
+
+<tr>
+<td><b>şimdi</b></td><td>now</td>
+</tr>
+
+</table>
+
+<p>
+
+<b>Dün ne yaptın?</b> - What did you do yesterday?
+<br>
+<b>Bugün hangi kitabı okuyorsun?</b> - What book are you reading today?
+<br>
+<b>Yarın denize gideceğim.</b> - Tomorrow I will go to the sea.
+
+
+

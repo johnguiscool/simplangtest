@@ -1,0 +1,11 @@
+﻿The suffix <b>-e / -ye</b> is used to express the preposition [to] in the sense of movement to a location in Turkish. 
+
+<ul>
+<li><b>Üniversite</b><br>Univesity</li>
+<li><b>Üniversiteye gidiyorum.</b><br>I am going to university.</li>
+</ul> 
+
+<ul>
+<li><b>İş</b><br>Work</li>
+<li><b>İşe gidiyorum.</b><br>I am going to work.</li>
+</ul>

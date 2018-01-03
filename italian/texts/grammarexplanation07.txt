@@ -1,0 +1,15 @@
+﻿The word for [my] in Italian varies based on whether the object in question is a masculine or feminine noun:
+
+<ul>
+<li><b>Il mio amico.</b> (masculine noun)<br>My friend.</li>
+<li><b>La mia università.</b> (feminine noun) <br> My university.</li>
+</ul>
+
+<p>Verbs in the future tense end with -ò in the first person.  For now, just memorize the following phrases:</p>
+
+<ul>
+<li><b>Andrò all'università.</b> <br> I will go to the university.</li>
+<li><b>Leggerò un libro.</b> <br> I will read a book.</li>
+</ul>
+
+<p><b>Adesso</b> is the adverb meaning [Now].</p>

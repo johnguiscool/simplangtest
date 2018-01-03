@@ -1,0 +1,33 @@
+<h4>The verb "to be": "I am, You are, He is, etc." 2/2</h4>
+
+To ask yes/no questions like
+
+<p>
+<hr>
+<p>
+<b>In the Present Tense</b>
+
+<p>
+<b>Ben ogrenci miyim?</b> - Am I a student?
+<br>
+<b>Sen zeki misin?</b> - You are a intelligent?
+<br>
+<b>O cok zengin mi?</b> - Is he very rich.
+
+<hr>
+<p>
+<b>In the Past Tense</b>
+
+<p>
+<b>Ben yorgundum.</b> - I was hungry.
+<br>
+<b>Sen </b> -
+<br>
+<b>O cok zengin.</b> - He is very rich.
+<hr>
+
+<p>
+<b>In the Future Tense</b>
+
+<p>
+<b>Ben ac olacam</b>. - I will be hungry.

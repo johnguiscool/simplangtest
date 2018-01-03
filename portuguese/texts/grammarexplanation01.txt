@@ -1,0 +1,9 @@
+﻿<b>Bom dia</b> is the standard greeting used among Portuguese people during the day.
+
+<p><b>Como te chamas?</b> is used to ask the question: [What's your name?].  The word <b>como</b> means [how] and the word <b>te</b> means [yourself].  The phrase translates more literally to something like [How do you call yourself?].</p>
+
+<p><b>Chamo-me ...</b> is used to say [My name is...], but the literal meaning is closer to [I call myself ...].</p>
+
+<p>In Portuguese, the words <b>eu</b> and <b>tu</b> are the pronouns for [I] and [you] respectively, but in practice, these pronouns are often omitted.</p>
+
+<p><b>Prazer</b> literally means [pleasure].  The expression <b>Prazer</b> is short for [It's a pleasure to meet you].

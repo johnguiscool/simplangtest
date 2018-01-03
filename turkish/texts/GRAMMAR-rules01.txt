@@ -1,0 +1,62 @@
+<h4>Practical Introduction to the Present Tense </h4>
+
+Turkish verbs end with the suffix <b>-mek</b> (<b>-mak</b>).  To conjugate the verb in the present tense, drop this suffix and replace it with the <b>-iyor (-ıyor)</b> suffix according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yapıyorum </b></td>
+    <td>I do</td>
+    <td><b>(biz) yapıyoruz</b></td>
+    <td>we do</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapıyorsun </b> </td>
+<td>you do</td>
+<td><b>(siz) yapıyorsunuz</b></td>
+<td>you do (formal/plural)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapıyor </b> </td>
+<td>he does</td>
+<td><b>(onlar) yapıyorlar</b></td>
+<td>they do</td>
+</tr>
+
+</table>
+
+<p>
+<b>sevmek</b> - to love
+<p>
+
+<table>
+<tr>
+<td><b>(ben) seviyorum</b></td>
+    <td>I love</td>
+    <td><b>(biz) seviyoruz</b></td>
+    <td>we love</td>
+</tr>
+
+<tr>
+<td><b>(sen) seviyorsun </b> </td>
+<td>you love</td>
+<td><b>(siz) seviyorsunuz</b></td>
+<td>you love (formal/plural)</td>
+</tr>
+
+<tr>
+<td><b>(o) seviyor </b> </td>
+<td>he loves</td>
+<td><b>(onlar) seviyorlar</b></td>
+<td>they love</td>
+</tr>
+
+</table>
+
+<p>
+
+There are some complications because there are actually two present tenses in Turkish, but following this rule, you will almost always me understood.  To learn more about the present tenses in Turkish, click <a href="grammar.php?grammarlesson=2">here</a>.

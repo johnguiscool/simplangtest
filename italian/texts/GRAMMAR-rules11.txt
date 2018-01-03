@@ -1,0 +1,20 @@
+<h4></h4>
+
+Because the verb "to be" does not exist in Turkish, Turkish speakers have a special suffix for expressing that something "was" something in the past.
+
+<p>
+
+[Adjective] + <b>-di / -du</b>
+
+<p>
+<b>Sınav zordu.</b> - The exam was difficult.
+<br>
+<b>O çok güzeldi.</b> - She was very beautiful.
+
+<p>
+
+[Noun] + <b>-di / -du</b>
+
+<p>
+<b>Ben öğrenciydim.</b> - I was a student.
+<b>O öğrenmendi.</b> - He was a teacher.

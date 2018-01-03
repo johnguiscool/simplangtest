@@ -1,0 +1,13 @@
+﻿What's your name?
+My name is Sofia.  And you?
+My name is John.
+Do you want to have lunch with me?
+Yes!  Let's go!
+Why are you learning Turkish?
+Because I want to work in Turkey
+What's your job?
+I'm an engineer.
+Where are you from?
+I'm from China.
+I'm Chinese.
+But I want to live in Turkey.

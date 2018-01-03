@@ -1,0 +1,15 @@
+﻿There are two ways to express the future tense in Ukrainian.  One is to use the perfective form of a verb.  The second is to use the verb <b>буду ___</b>, which means [will be doing ___].
+
+<p>
+
+<b>я буду ___</b> means [I will be doing ___].
+
+<br>
+
+<b>ти будеш ___</b> means [You will be doing ___].
+
+<p>
+
+<b>я буду читати книгу</b> means [I will be reading a book].
+<br>
+<b>Що ти будеш робити завтра?</b> means [What will you be doing tomorrow?].

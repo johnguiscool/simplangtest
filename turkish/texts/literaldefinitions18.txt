@@ -1,0 +1,8 @@
+﻿your-name what 
+my-name John 
+where-are-you-from 
+from-America I-come 
+what work you-do 
+I'm-a-student 
+what you-read 
+history I-read 

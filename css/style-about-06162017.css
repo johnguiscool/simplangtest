@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+
+/*=====================================
+   Content layout stuff
+=======================================*/
+
+.container{
+width: 90%;
+text-align: center;
+
+}
+
+/*=====================================
+   Layout stuff specific to about.php
+=======================================*/
+
+h1 {
+
+	display: block;
+	font-family: 'Arvo';
+}
+
+h2{
+	font-family: 'Arvo';
+}
+
+.person img{
+
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+
+}
+
+.person {
+
+	margin: 1em;
+	text-align: center;
+
+}
+
+.main-footer{
+		font-family: 'Arvo';
+}
+
+
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+ 
+
+ 
+  
+ @media (min-width: 830px){
+	
+	.container{
+
+		width: 60%;
+		text-align: center;
+
+		
+	}
+	
+	.pictures-row{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+		
+	}
+
+@media (min-width: 1025px){
+
+	/*========================================
+		Content columns
+	==========================================*/
+   
+
+}

@@ -1,0 +1,19 @@
+﻿<b>﻿Ciao</b> is a less formal greeting than <b>Buongiorno</b>, but it can still be used in a wide variety of situations of varying degrees of formality.
+
+<p><b>Sto...</b> is a verb meaning [I am ...], and it can be used to express one's current state <i>or</i> to express that one is currently doing some action.</p>
+
+<p>Using <b>Sto...</b> to express one's current state:</p>
+
+<ul>
+<li><b>Sto bene.</b><br>I'm well.</li>
+<li><b>Sto male.</b><br>I'm unwell.</li>
+</ul>
+
+<p>Using <b>Sto...</b> to express that one is currently doing some action:</p>
+
+<ul>
+<li><b>Sto leggendo un libro.</b><br>I'm reading a book.</li>
+<li><b>Sto andando a lavoro.</b><br>I'm going to work.</li>
+</ul>
+
+<p><b>Cosa...?</b> is the question word meaning [What ...?].  <b>Cosa fai?</b> is a somewhat idiomatic way to ask what one someone is currently doing.  The more grammatically exact way to say this is <b>Cosa stai facendo?</b>, but this is rarely used in practice.</p>

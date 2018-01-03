@@ -1,0 +1,59 @@
+<h4>The Simple Past Tense 1/2</h4>
+
+Turkish verbs end with the suffix <b>-mek</b> (<b>-mak</b>).  To conjugate the verb in the past tense, drop this suffix and replace it with the <b>-ti / -di</b> suffix according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yaptım </b></td>
+    <td>I did</td>
+    <td><b>(biz) yaptık</b></td>
+    <td>we did</td>
+</tr>
+
+<tr>
+<td><b>(sen) yaptın </b> </td>
+<td>you did</td>
+<td><b>(siz) yaptınız</b></td>
+<td>you did (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yaptı </b> </td>
+<td>he did</td>
+<td><b>(onlar) yaptılar</b></td>
+<td>they did</td>
+</tr>
+
+</table>
+
+<p>
+To form the negative, add the negation suffix <b>-mi</b> directly before the <b>-ti / -di</b> suffix.
+
+<p>
+<table>
+<tr>
+<td><b>(ben) yapmadım </b></td>
+    <td>I did not do</td>
+    <td><b>(biz) yapmadık</b></td>
+    <td>we did not do</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapmadın </b> </td>
+<td>you did not do</td>
+<td><b>(siz) yapmadınız</b></td>
+<td>you did not do (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapmadı</b> </td>
+<td>he did not do</td>
+<td><b>(onlar) yapmadılar</b></td>
+<td>they did not do</td>
+</tr>
+
+</table>
+

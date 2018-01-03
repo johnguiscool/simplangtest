@@ -1,0 +1,30 @@
+<h4>Forming The Present Simple Tense 2/2</h4>
+
+To form yes/no questions in the present simple tense, add the <b>-r</b> suffix and the question particle according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yapar mıyım? </b></td>
+    <td>Do I do?</td>
+    <td><b>(biz) yapar mıyız?</b></td>
+    <td>Do we do?</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapar mısın?</b> </td>
+<td>Do you do?</td>
+<td><b>(siz) yapar mısınız?</b></td>
+<td>Do you do? (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapar mı?</b> </td>
+<td>Does he do?</td>
+<td><b>(onlar) yaparlar mı?</b></td>
+<td>Do they do?</td>
+</tr>
+
+</table>

@@ -1,0 +1,7 @@
+﻿Başka soruların var mı? 
+Evet, iş ne demek?
+[Work]
+Benimle, ne demek?
+[With me].  Benimle öğle yemeği yemek istiyor musun?
+[Do you want to have lunch with me?].
+Çok teşekkürler.

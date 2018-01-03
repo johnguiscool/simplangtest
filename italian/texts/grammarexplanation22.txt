@@ -1,0 +1,36 @@
+﻿The simple past tense in Italian for the first-person singular is formed in the following way:
+
+<p>
+<b>Ho</b> + [verb] + <b>-ato,uto,ito</b>
+<ul>
+<li><b>Ho visitato un castello.</b> I visited a castle.</li>
+<li><b>Ho guardato la televisione.</b> I watched TV. </li>
+<li><b>Ho mangiato della pasta.</b> I ate some pasta.</li>
+</ul>
+
+<p>
+<b>Sono</b> + [verb] + <b>-ato,uto,ito</b>
+<ul>
+<li><b>Sono andato a Carignano.</b> I went to Carignano. </li>
+</ul>
+
+<p>
+Some verbs should be preceded by <b>Ho</b> and other verbs should be preceded by <b>Sono</b>.  The rule to determine whether a verb should be preceded by <b>Ho</b> or <b>Sono</b> is as follows:  Verbs of movement like <b>andare</b> should be preceded by <b>Sono</b> while all other verbs should be preceded by <b>Ho</b>.  For now, don't worry about memorizing which verbs need <b>Ho</b> and which verbs need <b>Sono</b>.
+</p>
+
+<p>
+For the second-person singular, the past tense is formed in the following way:
+
+<p>
+<b>Hai</b> + [verb] + <b>-ato,uto,ito</b>
+<ul>
+<li><b>Hai visitato il castello.</b> You visited a castle.</li>
+<li><b>Ho mangiato la pasta?</b> Did you eat the pasta?</li>
+<li><b>Cosa hai fatto questo fine settimana?</b> What did you do this weekend?</li>
+</ul>
+
+<p>
+<b>Sei</b> + [verb] + <b>-ato,uto,ito</b>
+<ul>
+<li><b>Sei andato a Carignano?</b> Did you go to Carignano? </li>
+</ul>

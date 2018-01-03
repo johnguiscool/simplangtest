@@ -1,0 +1,11 @@
+﻿Buongiorno, studenti!
+Buongiorno, professoressa!
+John, hai una domanda?
+Sì, ho una domanda!
+Dimmi.
+Come si dice in italiano [car]?
+Macchina.
+Come si dice in italiano [to have lunch]?
+Pranzare
+Grazie.
+Prego.

@@ -1,0 +1,245 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+*{
+
+	box-sizing: border-box;
+}
+
+body {
+
+	margin: 0 auto;
+	min-height: 100vh;
+
+}
+
+/*=================================
+   Makes the body into a flexbox.
+   [main-header]
+   [container]
+   [main-footer]
+   
+   
+   An expanded version of the structure:
+   
+	[main-header]
+		[banner-plus-navigation-flexbox]
+		[login-dash-report]
+
+	[container]
+		[lesson-links-nav]
+		[lesson-content]
+		[empty-column]
+
+	[main-footer]
+	
+ =================================*/
+
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+/* Creates the sticky footer by pushing the footer to the bottom */
+.container {
+	flex-grow: 1;
+}
+
+
+
+/*====================================
+   Header Stuff
+   =================================== */
+   
+
+   /* Header appearance.  Puts shadow under header */
+   .main-header
+	{
+	background: white;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	
+	/*box-shadow: 0 1px 4px rgba(0,0,0,0.4);*/
+	margin-bottom: 9px;
+	width: 100%;
+	}
+	
+  /*  FLEXBOX Code
+  Sets up part of the header as a flexbox*/
+.banner-plus-navigation-flexbox{
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+	}
+
+  /* Individual Header Items
+	[banner-in-header]
+	[header-nav-link]
+		[1: Lessons]
+		[2: How to ]
+		[3: About  ]
+  
+  	[log-dash-report]
+  
+	*/
+
+.banner-in-header {
+  
+  	font-size: 40px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: white;
+	text-shadow: -2px 0 lightblue, 0 1px lightblue, 1px 0 lightblue, 0 -2px lightblue;
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.banner-in-header a{
+	text-decoration: none;
+	color: white;
+
+}
+
+header-nav-link{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+.header-nav-link a{
+	color: black;
+	font-size: x-large;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+
+}
+
+.header-nav-link a:hover{   
+	text-decoration: underline;
+	color: red;
+}
+
+.login-dash-report{
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+/* ================================= 
+   Footer
+==================================== */
+
+
+.main-footer {
+	margin-top: 64px;
+	margin-bottom: 16px;
+
+	background-color: white;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+ 
+ @media (min-width: 568px){
+	.banner-plus-navigation-flexbox{
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.banner-in-header{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+}
+ 
+  
+ @media (min-width: 830px){
+	
+
+	.banner-plus-navigation-flexbox{
+		margin-left: 0px;
+		margin-right: 0px;
+		align-items: flex-end;
+	}
+
+	.banner-in-header{
+		width: auto;
+		margin-bottom: 0px;
+	    	margin-right: auto;
+	    	margin-left: 30px;
+	}
+
+
+
+/*======================================
+    Header and Navigation  
+========================================*/
+
+
+
+/*===========================================
+   The header is composed of three components:
+   	(1) banner-in-header
+   	(2) navigation-bar
+   	(3) log-in-dash-report
+   	
+   	The banner-in-header should be pushed to the left.
+   	The navigation bar should be pushed to the right.
+   	
+   	For this reason, they combine to take up 100% of the width.
+   	
+   	The log-in-dash-report should sit above the other two components and sit on the right.
+=============================================*/
+
+.login-dash-report{
+	display: inline-block;
+	position: absolute;
+	text-align: right;
+	font-size: small;
+	font-family: "Times New Roman", Times, serif;
+	top: 5px;
+	right: 30px;
+	margin-top: 0px;
+	}
+}
+
+
+@media (min-width: 1025px){
+
+	/*======================================
+    	Header and Navigation  
+	========================================*/
+
+	.banner-in-header
+	{
+		font-size: 50px;
+	}
+
+
+}

@@ -1,0 +1,10 @@
+﻿Do you have brothers or sisters?
+Yes!  I have one brother and one sister.
+My brother is a manager.
+My sister is a student (female).
+And you?  Do you have brothers and sisters?
+I don't have a sister.
+But I have two brothers.
+An older brother and a younger brother.
+My older brother is an engineer.
+My younger brother is a student.

@@ -1,0 +1,23 @@
+﻿Like many other European languages, Ukrainian makes a distinction between masculine nouns and feminine nouns.  In general, these nouns can be distinguished as follows:
+
+<p>
+
+Feminine nouns:  All nouns ending with <b>-а</b> or <b>-я</b>
+<br>
+Masculine nouns:  All other nouns
+
+<p>
+
+The possessive pronoun [your] varies depending on whether it modifies a masculine or a feminine noun. 
+
+<p>
+<b>Твій</b> - masculine [your]
+<br>
+
+<b>Твоя</b> - feminine [your]
+
+<p>
+ 
+So we say:
+
+<br> <b> Твій тато </b> and <b> Твоя мама</b> for [your father] and [your mother], respectively.

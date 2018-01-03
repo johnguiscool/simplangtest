@@ -1,0 +1,7 @@
+﻿The Italian phrases used to describe the weather are quite idiomatic and differ from how we would express the same ideas in English.  
+
+<p>
+<b>Fa freddo</b> and <b>Fa caldo</b> literally mean [It makes cold] and [It makes hot].  They are equivalent to [it's cold] or [it's hot].
+</p>
+
+<b>C'è il sole</b> literally means [There is the sun].  This phrase is equivalent to [It's sunny].

@@ -1,0 +1,31 @@
+<h4>Indicatives</h4>
+
+Turkish has the following indicatives:
+
+<p>
+<b>bu</b> - this
+<br>
+<b>şu</b> - that (pointing at an object that can be seen)
+<br>
+<b>o</b> - that (indicating an object that can not be seen)
+<p>
+
+As in English, these indicatives can be used as adjectives or as pronouns.
+
+<p>
+<b>bu elma</b> - this apple
+<br>
+<b>şu ağaç</b> - that tree
+<br>
+<b>o ev</b> - that house
+<hr>
+
+<p>
+Recall that there is no word for "is" in the Turkish language.  Therefore, when using indicatives to say "this is an apple", simply say, "bu bir elma".  More examples:
+
+<p>
+<b>Bu benim arkadaşım.</b> - This is my friend.
+<br>
+<b>Bu ne?</b> - What's this?
+<br>
+<b>Bu bir kalem.</b> - This is a pen.

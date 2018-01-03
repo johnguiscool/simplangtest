@@ -1,0 +1,9 @@
+Qual é o seu nome?
+Chamo-me John.
+De onde você é?
+Sou dos Estados Unidos.
+Qual é a sua profissão?
+Sou estudante.
+Qual é a sua profissão?
+Eu? Eu não tenho profissão.
+Estou reformada.

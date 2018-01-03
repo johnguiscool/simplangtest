@@ -1,0 +1,60 @@
+<h4>The Simple Future Tense 1/2</h4>
+
+Turkish verbs end with the suffix <b>-mek</b> (<b>-mak</b>).  To conjugate the verb in the future tense, drop this suffix and replace it with the <b>-cak</b> suffix according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yapacağım </b></td>
+    <td>I will do</td>
+    <td><b>(biz) yapacağız</b></td>
+    <td>we do</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapacaksın </b> </td>
+<td>you will do</td>
+<td><b>(siz) yapacaksınız</b></td>
+<td>you do (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapacak </b> </td>
+<td>he does (formal)</td>
+<td><b>(onlar) yapacaklar</b></td>
+<td>they do</td>
+</tr>
+
+</table>
+
+<p>
+To form the negative, add the negation suffix <b>-maya</b> directly before the <b>-cak</b> suffix.
+
+<p>
+<table>
+<tr>
+<td><b>(ben) yapmayacağım </b></td>
+    <td>I will not do</td>
+    <td><b>(biz) yapmayacağız</b></td>
+    <td>we will not do</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapmayacaksın </b> </td>
+<td>you will not do</td>
+<td><b>(siz) yapmayacaksınız</b></td>
+<td>you will not do (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapmayacak </b> </td>
+<td>he will not do</td>
+<td><b>(onlar) yapmayacaklar</b></td>
+<td>they will not do</td>
+</tr>
+
+</table>
+
+

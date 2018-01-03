@@ -1,0 +1,30 @@
+<h4>The Simple Future Tense 2/2</h4>
+
+To form yes/no questions in the present continuous tense, add the <b>-cak</b> suffix followed by the question particle <b>mı?</b> conjugated according to the table below:
+<p>
+<b>yapmak</b> - to do
+<p>
+
+<table>
+<tr>
+<td><b>(ben) yapacak mıyım? </b></td>
+    <td>will I do?</td>
+    <td><b>(biz) yapacak mıyız?</b></td>
+    <td>will we do?</td>
+</tr>
+
+<tr>
+<td><b>(sen) yapacak mısın? </b> </td>
+<td>will you do?</td>
+<td><b>(siz) yapacak mısınız?</b></td>
+<td>will you do? (formal)</td>
+</tr>
+
+<tr>
+<td><b>(o) yapacak mı? </b> </td>
+<td>will he do?</td>
+<td><b>(onlar) yapacaklar mı?</b></td>
+<td>will they do?</td>
+</tr>
+
+</table>

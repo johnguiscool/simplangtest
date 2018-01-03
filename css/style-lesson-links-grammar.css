@@ -1,0 +1,9 @@
+/* grammar table hider */
+
+.lesson-links-grammar-wrapper{
+  display: block;
+}
+
+.lesson-links-lessons-wrapper{
+  display: none;
+}

@@ -1,0 +1,22 @@
+﻿<b>İyiyim</b> is formed from the adjective meaning good [iyi] and the suffix <b>-im</b> to indicate that the adjective applies to the first person [me].
+
+<p>Note that the word <b>ben</b> meaning [I] can be included in the sentence or not.
+<b>Ben iyiyim</b> and <b>iyiyim</b> both mean the same thing.</p>
+
+<p><b>de</b> is the Turkish word for [also].</p>
+
+<p>All verbs in the present tense first-person conjugation end in the suffix <b>-yorum</b>.
+
+<ul>
+<li><b>Çalışıyorum.</b><br>I work.</li>
+<li><b>Kitap okuyorum.</b><br>I am reading a book.</li>
+<li><b>İşe gidiyorum.</b><br>I am going to work. </li>
+</ul>
+
+<p>All verbs in the present tense second-person conjugation end in the suffix <b>-yorsun</b>.
+
+<ul>
+<li><b>Çalışıyorsun.</b><br>You work.</li>
+<li><b>Kitap okuyorsun.</b><br>You are reading a book.</li>
+<li><b>İşe gidiyorsun.</b><br>You are going to work. </li>
+</ul>

@@ -1,0 +1,4 @@
+﻿<b>Ti è piaciuto ...?</b> is used to ask someone whether they liked [...].  
+
+<p>
+<b>Quale?</b> is the Italian word for the question word [Which?].

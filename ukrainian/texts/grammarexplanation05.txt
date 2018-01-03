@@ -1,0 +1,17 @@
+﻿To express that you like to do something in Ukrainian, simply say 
+
+<br>
+
+<b>Я люблю</b> plus the activity.  
+
+<p>
+
+<b>Я люблю читати</b> - [I like to read]
+
+<p>
+
+<b>Я люблю дивитися телевізор</b> - [I like to watch TV]
+
+<p>
+
+<b>Я люблю подорожувати</b> - [I like to travel]

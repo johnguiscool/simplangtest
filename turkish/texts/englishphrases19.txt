@@ -1,0 +1,9 @@
+﻿What can I do in this village.
+What do you like to do?
+I like to swim.
+There is a lake here.
+You can swim in the lake.
+Do you like architecture?
+Yes.
+There is an old castle here.
+You can visit the castle.

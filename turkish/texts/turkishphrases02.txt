@@ -1,0 +1,8 @@
+﻿Nerelisin?
+Ben Amerikalıyım.
+Sen nerelisin?
+Ben Türküm.
+Öğrenci misin?
+Evet.  Öğrenciyim.
+Sen?  Sen öğrenci misin?
+Hayır, çalışıyorum.

@@ -1,0 +1,79 @@
+<h4>Possessives</h4>
+
+The possessives in Turkish are as follows:
+
+<p>
+<table>
+<tr>
+<td><b>benim </b></td>
+    <td>my</td>
+    <td><b>bizim</b></td>
+    <td>our</td>
+</tr>
+
+<tr>
+<td><b>senin</b> </td>
+<td>your</td>
+<td><b>sizin</b></td>
+<td>your (formal)</td>
+</tr>
+
+<tr>
+<td><b>onun</b> </td>
+<td>his / her /its</td>
+<td><b>onların</b></td>
+<td>their</td>
+</tr>
+</table>
+
+<p>
+
+
+Possessives are formed by adding a suffix to the noun possessed.  Additionally, the word for "my", "your", "his", etc. may come before the noun to add emphasis to the declaration.  However, these words are typically not required.
+<p>
+<b>arkadaş</b> - friend
+<P>
+<table>
+
+<tr>
+<td>-im</td>
+<td><b>benim arkadaşım</b></td>
+<td>my friend</td>
+</tr>
+
+<tr>
+<td>-in</td>
+<td><b>senin arkadaşın</b></td>
+<td>your friend</td>
+</tr>
+
+
+<tr>
+<td>-i</td>
+<td><b>onun arkadaşı</b></td>
+<td>his / her friend</td>
+</tr>
+
+
+<tr>
+<td>-imiz</td>
+<td><b>bizim arkadaşımız</b></td>
+<td>our friend</td>
+</tr>
+
+
+<tr>
+<td>-iniz</td>
+<td><b>sizin arkadaşınız</b></td>
+<td>your friend (formal / plural)</td>
+</tr>
+
+
+<tr>
+<td>-i</td>
+<td><b>onların arkadaşı</b></td>
+<td>their friend</td>
+</tr>
+
+</table>
+

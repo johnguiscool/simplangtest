@@ -1,0 +1,4 @@
+﻿To express that you would like to do something, use the following form:
+<p>
+<b>я б хотів ___</b>, if you are a man. <br>
+<b>Я б хотіла ___</b>, if you are a woman.

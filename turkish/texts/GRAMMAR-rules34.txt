@@ -1,0 +1,35 @@
+<h4>Pronouns</h4>
+
+The subject pronouns in Turkish are as follows:
+<p>
+<table>
+
+<tr>
+<td><b>ben</b></td>
+<td>I</td>
+
+<td><b>biz</b></td>
+<td>we</td>
+
+</tr>
+
+<tr>
+<td><b>sen</b></td>
+<td>you</td>
+
+<td><b>siz</b></td>
+<td>you (formal / plural)</td>
+
+</tr>
+
+
+<tr>
+<td><b>o</b></td>
+<td>he / she / it</td>
+
+<td><b>onlar</b></td>
+<td>they</td>
+</tr>
+
+</table>
+

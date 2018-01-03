@@ -1,0 +1,12 @@
+﻿The name <b>Джон</b> (John) becomes <b>Джона</b> when it acts as the object of a verb. In Ukrainian many nouns will change their endings depending on their function in a sentence.
+
+<p>
+
+To ask a yes/no question in Ukrainian, the order of words is [subject]+[verb]+[object].  As you can see in the examples in the dialogue:
+
+<p>
+
+<b>ти знаєш мого друга?</b> which translates word-for-word to [You know my friend?].
+
+<p>
+<b>ти розмовляєш українською</b> which translates word-for-word to [You speak Ukrainian?]

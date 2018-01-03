@@ -1,0 +1,9 @@
+﻿The phrase [How was ___?] has a number of different forms, depending on what is being talked about.  This phrase varies by whether the noun talked about is masculine, feminine, or neuter.
+
+<p>
+
+<b>Як було ___?</b> - Neuter 
+<br>
+<b>Як був ___?</b> - Masculine 
+<br>
+<b>Яка була ___?</b> - Feminine 

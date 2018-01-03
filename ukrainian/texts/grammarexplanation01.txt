@@ -1,0 +1,5 @@
+﻿<b>Добрий день!</b> is the typical greeting used among Ukrainians and is the equivalent of [Hello].
+
+<p>
+
+<b>Як вас звати?</b> is used to ask someone's name.  A close literal translation of this phrase would be [How are you called?]

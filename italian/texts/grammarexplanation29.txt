@@ -1,0 +1,13 @@
+﻿Comparatives in Italian are easy to form.  To say that something has a quality to a greater degree, use the word <b>più</b>.  To say that something has a quality to a lesser degree, use the word <b>meno</b>.
+
+<ul>
+<li><b>più grande</b><br> bigger (more big)</li>
+<li><b>più difficile</b><br> more difficult</li>
+<li><b>più facile</b><br>easier (more easy)</li>
+</ul>
+
+<ul>
+<li><b>meno grande</b><br>less big</li>
+<li><b>meno difficile</b><br>less difficult</li>
+<li><b>meno facile</b><br>less easy</li>
+</ul>

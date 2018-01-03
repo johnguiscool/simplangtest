@@ -1,0 +1,16 @@
+﻿In Italian, yes/no questions can usually be asked by simply adding a questioning intonation at the end of a sentence.
+
+<ul>
+<li><b>Vuoi pranzare con me.</b><br> You want to have lunch with me.</li>
+<li><b>Vuoi pranzare con me?</b><br> Do you want to have lunch with me?</li>
+<li><b>Hai fratelli.</b><br> You have brothers.</li>
+<li><b>Hai fratelli?</b><br> Do you have brothers?</li>
+</ul>
+
+<p><b>Il mio</b> or <b>la mia</b> is the typical way to say [my] in Italian.  However, the <b>il</b> and <b>la</b> are typically dropped when talking about family members.  Thus, we typically say <b>mio fratello</b> rather than <b>il mio fratello</b> (although both are grammatically correct). This is simply idiomatic and must be memorized.
+
+<p><b>Uno</b> is the Italian word for [One].  When modifying a noun, it shortens to <b>un</b> or <b>una</b>, depending on whether it modifies a masculine or feminine noun.</p>
+
+<p><b>Due</b> is the Italian word for [Two].  It does not change when modifying a noun.</p>
+
+<p>With the exception of quantifiers like numbers and possessives, adjectives follow the noun that they modify.  Therefore we say <b>fratello maggiore</b> or [brother older] to refer to an older brother.</p>

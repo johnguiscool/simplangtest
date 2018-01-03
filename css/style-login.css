@@ -1,0 +1,198 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+*{
+
+	box-sizing: border-box;
+}
+
+body {
+
+	margin: 0 auto;
+	
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	
+	background-color: white;
+}
+
+
+/* ================================= 
+  Base Layout Styles
+==================================== */
+
+.container{
+	width: 100%
+}
+
+
+
+
+/* ================================= 
+   Login Form
+==================================== */
+
+.container form {
+  background: #fff;
+  padding: 16px;
+  max-width: 90%;
+  margin: 32px auto 0;
+  box-shadow: 0 0 0.25em #222;
+  border-radius: 5px;
+}
+
+.container label {
+  display: block;
+  font-size: 16px;
+  margin: 0 0 8px;
+  color: #333;
+}
+
+.container input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  outline: none
+}
+
+.container input[type="text"],
+input[type="password"] {
+  background: #f5f5f5;
+  border: 1px solid #e5e5e5;
+  font-size: 16px;
+  padding: 8px 8px;
+  border-radius: 5px;
+}
+
+.container input[type="text"]:focus,
+input[type="password"]:focus {
+  background: #fff
+}
+
+
+.container input[type="submit"] {
+  background: #2F558E;
+  box-shadow: 0 3px 0 0 #1D3C6A;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-size: 16px;
+  line-height: 16px;
+  margin: 16px 0 0;
+  outline: none;
+  padding: 16px 0;
+  text-shadow: 0 1px #68B25B;
+
+}
+
+.submit-login-button{
+	  background: #2F558E;
+  box-shadow: 0 3px 0 0 #1D3C6A;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-size: 16px;
+  line-height: 16px;
+  margin: 16px 0 0;
+  outline: none;
+  padding: 16px 0;
+  text-shadow: 0 1px #68B25B;
+  
+    display: block;
+  box-sizing: border-box;
+  width: 100%;
+  outline: none
+  
+  margin-bottom: 16px;
+
+  
+}
+
+.login-form{
+	width: 90%;
+	margin: auto;
+}
+
+.form-signin-heading{
+	text-align: center;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+
+
+.error-message{
+	color: red;
+	text-align: center;
+
+}
+
+
+/* ================================= 
+   Footer
+==================================== */
+
+
+
+
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+   @media (min-width: 320px){
+	   
+	   .banner-text{
+		   font-size: 60px;
+	   }
+	   
+	   .container form {
+		max-width: 90%;
+		}
+
+
+	   
+   }
+
+  
+  
+ @media (min-width: 769px){
+	
+.container {
+
+	margin-top:  80px;
+	width: 100%;
+}
+	
+
+
+.container form {
+	max-width: 600px;
+ }
+
+.submit-login-button {
+	width: 250px;
+	margin: auto;
+}
+
+.submit-login-button:hover{
+	background-color:  #3F659E;
+}
+
+.submit-login-button:active {
+    background-color: #3F659E;
+    transform: translateY(2px);
+    box-shadow: 0 0px #999;
+    outline: none;
+
+}
+
+
+ 
+}

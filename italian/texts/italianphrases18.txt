@@ -1,0 +1,9 @@
+﻿Come ti chiami?
+Mi chiamo John.
+Da dove vieni?
+Vengo dagli Stati Uniti.
+Qual è la tua professione?
+Sono studente.
+Qual è la sua professione, signora?
+Io?  Io non ho una professione.
+Sono pensionata.

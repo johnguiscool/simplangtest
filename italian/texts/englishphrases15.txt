@@ -1,0 +1,11 @@
+﻿Do you want to visit this village?
+I want to, but I can't.
+Why can't you?
+I don't have a car.
+I need a car
+to go there.
+Marcello has a car.
+You can take Marcello's car.
+Good idea.
+Do you want to come to this village with me?
+Yes!

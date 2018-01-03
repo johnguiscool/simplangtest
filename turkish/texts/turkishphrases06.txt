@@ -1,0 +1,13 @@
+﻿Merhaba, John!
+Merhaba, Ezgi!
+Bu benim arkadaşım Hakan.
+Merhaba, John!
+Merhaba, Hakan.
+Türkçe biliyor musun?
+Biraz türkçe biliyorum.
+Güzel.
+İstanbul'da mı oturuyorsun?
+Evet.  İstanbul'da oturuyorum.
+İstanbul'da nerede oturuyorsun?
+Merkezde oturuyorum.  Sen?
+Merkezden uzakta oturuyorum.

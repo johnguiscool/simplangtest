@@ -1,0 +1,6 @@
+﻿your-parents 
+my-father professor 
+my-mother doctor 
+interesting 
+my-father farmer 
+my-mother nurse 

@@ -1,0 +1,35 @@
+<h4>The verb "to be": "I am, You are, He is, etc." 1/2</h4>
+
+In Turkish, there is no verb "to be".  To express sentences like "I am a student" or "I am tall", just say "Ben öğrenciyim" and "Ben uzunum".
+
+<p>
+<hr>
+<p>
+<b>In the Present Tense</b>
+
+<p>
+<b>Ben öğrenciyim.</b> - I am a student.
+<br>
+<b>O çok zengin.</b> - He is very rich.
+
+<hr>
+<p>
+<b>In the Past Tense</b>
+
+<p>
+To express "being" in the past tense, add the <b>-di / -ti</b> suffix.
+
+<p>
+<b>Ben öğrenciydim.</b> - I was a student.
+<br>
+<b>O çok zengindi.</b> - He was very rich.
+<hr>
+
+<p>
+<b>In the Future Tense</b>
+<p>
+To express "being" in the future tense, use the verb <b>olmak</b> in the future tense.
+<p>
+<b>Ben bir öğrenci olacağım.</b> - I will be a student.
+<br>
+<b>O çok zengin olacak.</b> - He will be very rich.

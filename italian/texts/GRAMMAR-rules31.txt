@@ -1,0 +1,18 @@
+<h4>And and Or</h4>
+
+<b>ve</b> is the word for "and".
+
+<p>
+<b>elmalar ve portakallar</b> - apples and oranges
+
+<br>
+<b>John ve Mary</b> - John and Mary
+
+<hr>
+
+<p>
+<b>veya</b> is the word for "or".
+<p>
+<b>kavun veya karpuz</b> - melon or watermelon
+<br>
+<b>çay veya kahve</b> - tea or coffee

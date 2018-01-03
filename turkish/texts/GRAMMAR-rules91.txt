@@ -1,0 +1,11 @@
+To express that you should do something in Turkish, add the <b>-mam lazim</b> suffix to the verb stem according to the table below:
+
+
+
+<p>
+
+<b>Uyumak istiyorum.</b> - I want to sleep.
+<br>
+<b>Işe gitmek istemiyorum.</b> - I don't want to go to work.
+<br>
+<b>Gelmek ister misin?</b> - Do you want to come? (invitation)

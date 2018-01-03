@@ -1,0 +1,11 @@
+good-day  students 
+good-day  professor 
+John  you-have a question 
+I-have a question 
+tell-me 
+how self say in Italian [car]  
+car 
+how self say in Italian [to have lunch] 
+to-have-lunch
+thanks 
+I-beg 

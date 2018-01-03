@@ -1,0 +1,28 @@
+﻿<b>Bu</b> is the Turkish word for [this], and is used just as in English.
+
+<p>
+
+<b>Arkadaş</b> is the base word for [friend].  Adding the <b>-ım</b> suffix transforms the word to [my friend].
+
+<ul>
+<li><b>arkadaş</b><br>friend</li>
+<li><b>arkadaşım</b><br>my friend</li>
+</ul>
+
+The word <b>biliyorum</b> literally means [I know].  Rather than say [I speak Turkish] to indicate that one has a command of the Turkish, one says [I know Turkish], i.e. <b>Türkçe biliyorum</b>.
+
+<p>
+
+The suffix <b>'da / de</b> means [in] the noun it is attached to:
+
+<ul>
+<li><b>İstanbul</b><br>Istanbul</li>
+<li><b>İstanbul'da</b><br>in Istanbul</li>
+</ul>
+
+<ul>
+<li><b>Merkez</b><br>the center (of a city)</li>
+<li><b>Merkezde</b><br>in the center (of a city)</li>
+</ul>
+
+In general, prepositional phrases in English like in, at, of, from, etc. are formed using suffixes in Turkish.

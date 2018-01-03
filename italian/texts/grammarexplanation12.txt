@@ -1,0 +1,19 @@
+﻿The possessive adjectives vary based on whether the noun they modify is masculine or feminine <i>and</i> whether it is singular or plural.
+
+<p><b>Il mio</b>:</p>
+
+<ul>
+<li><b>Il mio fratello.</b><br>My brother.</li>
+<li><b>La mia macchina.</b><br>My car.</li>
+<li><b>I miei genitori.</b><br>My parents.</li>
+<li><b>Le lie macchine.</b><br>My cars.</li>
+</ul>
+
+<p><b>Il tuo</b>:</p>
+
+<ul>
+<li><b>Il tuo fratello.</b><br>Your brother.</li>
+<li><b>La tua macchina.</b><br>Your car.</li>
+<li><b>I tuoi genitori.</b><br>My parents.</li>
+<li><b>Le tue macchine.</b><br>My cars.</li>
+</ul>

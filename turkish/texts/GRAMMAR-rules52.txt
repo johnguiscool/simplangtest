@@ -1,0 +1,54 @@
+<h4>Questions</h4>
+
+Turkish yes/no questions are marked by the question particle <b>mı</b>.  This particle has a personal ending based on the subject of the sentence.
+
+<p>
+<table>
+<tr><td><b>(Ben) aç mıyım?</b></td><td>Am I hungry?</td><td><b>(Biz) aç mıyız?</b></td><td>Are we hungry?</td></tr>
+
+<tr><td><b>(Sen) aç mısın?</b></td><td>Are you hungry?</td><td><b>(Siz) aç mısınız?</b</td><td>Are you hungry? (formal)</td></tr>
+
+<tr><td><b>(O) aç mı?</td><td>Is he hungry?</td><td><b>(Onlar) aç mı?</b></td><td>Are they hungry?</td></tr>
+
+</table>
+
+<hr>
+<p>
+
+The question words in Turkish are as follows:
+
+<p>
+<table>
+<tr>
+<td><b>kim?</b></td><td>who?</td>
+</tr>
+
+<tr>
+<td><b>ne?</b></td><td>what?</td>
+</tr>
+
+<tr>
+<td><b>ne zaman?</b></td><td>when?</td>
+</tr>
+
+<tr>
+<td><b>nerede?</b></td><td>where?</td>
+</tr>
+
+<tr>
+<td><b>neden?</b></td><td>why?</td>
+</tr>
+
+<tr>
+<td><b>nasıl?</b></td><td>how?</td>
+</tr>
+</table>
+
+<p>
+<b>Bu akşam kim gelecek?</b> - Who will come this evening?
+<br>
+<b>Ne istersin?</b> - What do you want?
+<br>
+<b>Topkapı Sarayı nerede?</b> - Where is Topkapi Palace?
+<br>
+<b>Türkçeyi nasıl öğrendin?</b> - How did you learn Turkish?

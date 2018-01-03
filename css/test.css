@@ -1,0 +1,11 @@
+div.grammar-header{
+  cursor: pointer;
+  cursor: hand;
+
+}
+
+.grammar-header::before{
+  content: "+";
+  font-size: xx-large;
+
+}

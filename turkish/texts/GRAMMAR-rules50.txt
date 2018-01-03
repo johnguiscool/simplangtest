@@ -1,0 +1,26 @@
+<h4>Indicative Sentences</h4>
+
+Turkish sentences follow a [subject] [object] [verb] word order.
+
+<p>
+<b>John kahve içiyor.</b> - John is drinking coffee.
+<b>Ben bir kalem arıyorum.</b> - I am looking for a pen.
+
+<p>
+
+Adverbs and prepositional phrases also typically come before the verb.  Turkish sentences typically always end with the verb in the last position.
+
+<p>
+<b>Ben İstanbul'da oturuyorum.</b> - I live in Istanbul.
+<br>
+<b>İki yıl önce Türkiye'ye geldim.</b> I came to Turkey two years ago.
+<b>John, Mary ile konuşuyor.</b> John is speaking with Mary.
+
+<p>
+
+Typically, the subject of a sentences is omitted where it can be inferred from context, or from the conjugation of the verb.
+
+<p>
+<b>Seni seviyorum.</b> - I love you.
+<br>
+<b>Burada çalışıyoruz.</b> - We work here.

@@ -1,0 +1,146 @@
+.container{
+    text-align: center;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+     align-content: center;
+}
+
+.quiz-card{
+    background: #f5f5f5;
+    border-radius: 10px;
+    padding: 16px;
+
+    margin: auto;
+    
+    border: 1px solid lightgrey;
+    border-top: 0px;
+    border-left: 0px;
+    
+    max-width: 760px;
+
+
+}
+
+.english-prompt{
+    
+}
+
+.foreign-answer{
+    
+}
+
+button{
+    margin-bottom: 8px;
+}
+
+button{
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 2px #999;
+    outline: none;
+    width: 250px;   
+}
+
+
+button:active {
+    transform: translateY(2px);
+    box-shadow: 0 0px #999;
+    outline: none;
+}
+
+.forgot-phrase-button{
+    background: #f44336;
+}
+
+.forgot-phrase-button: hover{
+    background:  #f55447;
+}
+
+.forgot-phrase-button: active{
+    background:  #f55447;
+}
+
+.check-answer-button {
+    background: #00CC00;
+}
+
+.check-answer-button: hover {
+    background: #11DD11;
+}
+
+.check-answer-button : active{
+    background: #11DD11;
+}
+
+.replay-audio-button{
+    background: #008CBA;
+    margin-bottom: 32px;
+}
+
+.replay-audio-button : hover{
+    background: #119DCB;
+}
+
+.replay-audio-button : active{
+    background: #119DCB;
+}
+
+.exit-quiz-anchor {
+    margin-top: auto;
+    
+}
+
+.exit-quiz-anchor form{
+
+}
+
+.forgot-phrase-anchor{
+    margin-top: 10px;
+}
+
+.replay-audio-anchor{
+    margin-top: 10px;
+}
+
+.check-answer-anchor{
+    margin-top: 10px;
+}
+
+input[type=submit]{
+    background-color: #0000A0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 2px #999;
+    outline: none;
+    width: 250px;  
+}
+
+
+
+
+@media screen and (min-width: 580px) 
+{
+
+.replay-audio-button{
+    margin-bottom: auto;
+}
+
+.quiz-card{
+
+}
+
+    
+}
